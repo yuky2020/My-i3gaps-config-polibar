@@ -34,7 +34,7 @@ https://github.com/pavanjadhaw/betterlockscreen you can find it here (is also on
 
 
 ## rofi appmenu and network menu 
-For appmenu and network menu i use rufi (Better and better than dmenu for me) 
+For appmenu and network menu i use rofi (Better and better than dmenu for me) 
 my actual version is pretty a stock edition of this https://gitlab.com/vahnrr/rofi-menus (anyway is also on aur )
 
 
