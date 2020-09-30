@@ -163,9 +163,9 @@ bindsym $mod+Shift+r restart
 
 #bindsym $mod+Shift+e exec --no-startup-id qdbus org.kde.ksmserver /KSMServer org.kde.KSMServerInterface.logout -1 -1 -1
 
-bindsym $mod+Shift+e exec --no-startup-id  i3-msg exit 
+bindsym $mod+Shift+e exec --no-startup-id  rofi-power 
 
-bindsym $mod+Shift+x exec betterlockscreen -l
+bindsym $mod+Shift+x exec betterlockscreen --lock blur
 
 
 # resize window (you can also use the mouse for that)
