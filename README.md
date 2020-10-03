@@ -11,7 +11,8 @@ to use this config please install polybar and i3gaps
 on arch linux :
 
 ```bash
-yay -S i3gaps polybar
+sudo pacman-S yay
+yay -S i3gaps polybar picom-tryone-git rofi ranger 
 ```
 
 then git clone this repo 
