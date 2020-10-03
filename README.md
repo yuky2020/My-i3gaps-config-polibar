@@ -41,9 +41,9 @@ https://github.com/pavanjadhaw/betterlockscreen you can find it here (is also on
 ## rofi appmenu , network menu ,power menu
 For appmenu and network menu i use rofi,also for power menu ,anyway a script for power menu is also in the bar (Better and better than dmenu for me) 
 my actual version is pretty a stock edition of this https://gitlab.com/vahnrr/rofi-menus (anyway is also on aur )
-![](https://raw.githubusercontent.com/yuky2020/My-i3gaps-config-polybar/main/rofi-appsmenu%20.png)
-![](https://raw.githubusercontent.com/yuky2020/My-i3gaps-config-polybar/main/rofi%20network.png)
-![](https://raw.githubusercontent.com/yuky2020/My-i3gaps-config-polybar/main/rofi%20power%20.png)
+![](https://raw.githubusercontent.com/yuky2020/My-i3gaps-config-polybar/main/screen/rofi-appsmenu%20.png)
+![](https://raw.githubusercontent.com/yuky2020/My-i3gaps-config-polybar/main/screen/rofi%20network.png)
+![](https://raw.githubusercontent.com/yuky2020/My-i3gaps-config-polybar/main/scrren/rofi%20power%20.png)
 
 
 
