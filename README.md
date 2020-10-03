@@ -12,7 +12,9 @@ on arch linux :
 
 ```bash
 sudo pacman-S yay
-yay -S i3gaps polybar picom-tryone-git rofi ranger 
+yay -S i3gaps polybar 
+#Optional
+yay -S picom-tryone-git rofi ranger 
 ```
 
 then git clone this repo 
